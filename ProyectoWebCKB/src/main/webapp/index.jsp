@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
+<input>Hola que pasa</input>
 </head>
 <body>
 
